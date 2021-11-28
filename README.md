@@ -11,11 +11,11 @@ Do you have a set of pictures from the class topper's notes but find it difficul
 **Note : The script works only for pictures clicked in portrait mode.** <br />
 
 ## Working
-1.click on "choose input files directory" and navigate to your a folder with the input files that you wish to convert.
-2.click on "choose output directory" and navigate to the place you wish for your file to be output to.
-3. in the filetype box type "png" or "jpg" depending on what the images you wish to convert to PDF are.
-4. name your file and press submit file name 
-5. CONVERT!!!!!
+1.click on "choose input files directory" and navigate to your a folder with the input files that you wish to convert.<br/>
+2.click on "choose output directory" and navigate to the place you wish for your file to be output to.<br/>
+3. in the filetype box type "png" or "jpg" depending on what the images you wish to convert to PDF are.<br/>
+4. name your file and press submit file name <br/>
+5. CONVERT!!!!!<br/>
 
 ![image](https://user-images.githubusercontent.com/29803330/46648841-71499680-cbb4-11e8-91e6-e5cc0e9b3e36.png)
 <br /><br />
