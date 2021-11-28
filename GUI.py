@@ -57,7 +57,7 @@ def get_in_dir():
     split = data.split("?")      #data is broken up by ??
     split[0] = in_filepath
     File.close()
-    print(split)
+
     File = open("filepath.txt","w")
     for i in range(3):
         try:
@@ -76,7 +76,7 @@ def get_out_dir():
     split = data.split("?")      #data is broken up by ??
     split[1] = out_filepath
     File.close()
-    print(split)
+
     File = open("filepath.txt","w")
     for i in range(3):
         try:
@@ -130,7 +130,6 @@ def get_file_type():
     split = data.split("?")      #data is broken up by ??
     split[2] = type_extention
     File.close()
-    print(split)
     File = open("filepath.txt","w")
     for i in range(3):
         try:
@@ -179,7 +178,6 @@ root.mainloop()
 File = open("filepath.txt","r")
 data = File.readlines()
 File.close()
-print(data)
 File = open("filepath.txt","w")
 for i in range(3):
     try:
