@@ -11,12 +11,12 @@ Do you have a set of pictures from the class topper's notes but find it difficul
 **Note : The script works only for pictures clicked in portrait mode.** <br />
 
 ## Working
-The script only takes two inputs.
-1. The directory where the images are stored.
-2. The name of the output PDF file. 
-The GUI handles inputing this information
+1.click on "choose input files directory" and navigate to your a folder with the input files that you wish to convert.
+2.click on "choose output directory" and navigate to the place you wish for your file to be output to.
+3. in the filetype box type "png" or "jpg" depending on what the images you wish to convert to PDF are.
+4. name your file and press submit file name 
+5. CONVERT!!!!!
 
 ![image](https://user-images.githubusercontent.com/29803330/46648841-71499680-cbb4-11e8-91e6-e5cc0e9b3e36.png)
 <br /><br />
 **Note : The directory should not contain any subdirectories having images in them, i.e., the diretory should contain only the images to be converted to PDF. The output PDF is saved in the same directory.** <br /><br />
-Demo video of the script : https://drive.google.com/open?id=1HsPsVmQhWT5HVDtXKeIeiM9pCGJ9wvNc
